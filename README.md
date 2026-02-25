@@ -1,7 +1,7 @@
 Etkinlik Yönetim Sistemi (PHP & MySQL)
 Bu proje, geçen sene (2025) geliştirilmiş, kullanıcıların etkinlikleri görüntüleyebildiği ve (sepet mantığıyla) bilet/katılım sağlayabildiği bir web uygulamasıdır. PHP'nin temel mantığını ve veritabanı yönetimini kavramak amacıyla geliştirilmiştir.
 
-🛠 Kullanılan Teknolojiler
+Kullanılan Teknolojiler
 Dil: PHP
 Veritabanı: MySQL
 Frontend: HTML5, CSS3, JavaScript (Bootstrap)
@@ -17,7 +17,7 @@ Yönetici (Admin) Paneli
 Etkinlik Yönetimi: Yeni etkinlik ekleme, mevcutları düzenleme veya silme.
 Kullanıcı Denetimi: Sisteme kayıtlı kullanıcıları görüntüleme ve yönetme.
 
-💾 Kurulum ve Çalıştırma
+Kurulum ve Çalıştırma
 Bilgisayarınızda XAMPP veya WampServer'ın kurulu olduğundan emin olun.
 Bu projeyi htdocs (veya www) klasörüne kopyalayın.
 Tarayıcınızdan phpMyAdmin panelini açın ve yeni bir veritabanı oluşturun.
